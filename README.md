@@ -2,6 +2,10 @@
 
 An intelligent, multi-stage computer vision pipeline that automatically detects human faces using a custom fine-tuned YOLOv8 model and classifies their emotions using DeepFace.
 
+Live demo: https://your-app-name.streamlit.app
+
+Detects faces with YOLOv8 and predicts emotions with DeepFace.
+
 ## 🚀 Project Overview
 Most standard object detection models are general-purpose. This project demonstrates an end-to-end custom computer vision workflow:
 1. **Custom Object Detection:** Fine-tuned `YOLOv8n` on face images to specialize in high-accuracy face localization.
