@@ -9,3 +9,4 @@ tf-keras
 opencv-python-headless
 numpy
 pillow
+flask
